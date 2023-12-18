@@ -66,3 +66,5 @@ fillellipse(k,l,20,20);
 }
 return 0;
 }
+Compilation command for OpenGL - g++ filename.cpp -lGL -lGLU -lglut
+  
